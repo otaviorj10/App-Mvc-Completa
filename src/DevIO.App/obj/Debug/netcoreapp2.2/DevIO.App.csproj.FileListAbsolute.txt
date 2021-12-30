@@ -32,3 +32,7 @@ C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.Ap
 C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.pdb
 C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.genruntimeconfig.cache
 C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CopyComplete
+C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\marco\Desktop\Nova pasta (4)\AppMvcCompleta\AppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
